@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src/Minilab6" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/main/kotlin" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/main/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/src/test/kotlin" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/src/test/resources" type="java-test-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Genomgång lektion2" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Övning 4a+b+c+d" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Övning 5a" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Genomgång lektion 3" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Övning 6a+b" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/AoC" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="KotlinJavaRuntime" level="project" />
+    <orderEntry type="library" name="Maven: org.jetbrains.kotlin:kotlin-script-runtime:1.9.0" level="project" />
+  </component>
+</module>
